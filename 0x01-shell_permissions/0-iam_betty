@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -u betty sh
+chmod 700 script.sh
